@@ -1,0 +1,13 @@
+logo - 42px
+color - #04AA6D!important  ( Major color )
+website button color : #FFC0C7!important 
+bg-black-assumption : #282A35
+on hover on left nav bar - #cccccc
+light green - #D9EEE1
+new button - #FFF4A3!important
+example box - #E7E9EB	
+
+================
+
+1. 2nd top bar should be fixed
+2. Left nav bar scrollable
